@@ -1,0 +1,9 @@
+#nav-wrap ul li a {
+      color:rgb(255, 255, 255);   
+  }
+#nav-wrap ul li a:hover {
+   
+    display:block;
+    color: #ee9300f3;
+    text-decoration: none
+}

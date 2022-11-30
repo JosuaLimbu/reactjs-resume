@@ -1,0 +1,16 @@
+[
+    {
+        "id" : 1,
+        "title": "Klabat University",
+        "subTitle": "Computer Science",
+        "date": "August 2020",
+        "desc" : " Klabat University, abbreviated as Unklab , is a private tertiary institution founded, fostered, and supervised by the Indonesian East Union Seventh-day Adventist Church through the Klabat University Foundation. When it was founded on October 7, 1965 , Unklab had the status of a university with the name College Klabat which had a major in Theology and Education with a two-year study program. The 4-year program (BA) with a 2-year major in Economics and Office  Administration opened in 1970. The following year the status was changed from college to high school. The Faculty of Agriculture with the Bachelor's degree in Agricultural Cultivation majored in the expansion of Unklab in 1981"
+    },
+    {
+        "id" : 2,
+        "title": "Toraja View Academy",
+        "subTitle": "Natural Sciences Major",
+        "date": "June 2017",
+        "desc" : "Toraja View Academy is an educational unit with a high school level in MEBALI KELURAHAN, Kec. Gandangbatu Sillanan, Kab. Tana Toraja, South Sulawesi. In carrying out its activities, Toraja View Academy is under the auspices of the Ministry of Education and Culture."
+    }
+]
